@@ -136,13 +136,19 @@ streamlit run app.py
 ## 🖼️ Screenshots
 
 **Login Page:**
-![Login](https://via.placeholder.com/600x300.png?text=Login+Page)
+![Login] <img width="1919" height="846" alt="image" src="https://github.com/user-attachments/assets/7bd3d031-18e3-4266-bba4-063811d9f4f8" />
+
 
 **Student Dashboard:**
-![Student Dashboard](https://via.placeholder.com/600x300.png?text=Student+Dashboard)
+![Student Dashboard] <img width="1910" height="848" alt="image" src="https://github.com/user-attachments/assets/e2093f9f-ce4c-4e7a-beb8-8c7e9dac6562" />
+![Applications] <img width="1914" height="819" alt="image" src="https://github.com/user-attachments/assets/c2516c39-7b55-435b-bb64-184e35e9b8bb" />
+
+
 
 **Recruiter Dashboard:**
-![Recruiter Dashboard](https://via.placeholder.com/600x300.png?text=Recruiter+Dashboard)
+![Recruiter Dashboard] <img width="1918" height="819" alt="image" src="https://github.com/user-attachments/assets/4a8cde61-3b7a-40de-b2cc-e53c655c1fc5" />
+![Application review] <img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/03cb286f-9111-43e7-9e19-b6a833e0c3c7" />
+
 
 ---
 
